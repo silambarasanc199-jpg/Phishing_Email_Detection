@@ -1,2 +1,12 @@
-# Phishing_Email_Detection
-Machine Learning based phishing email detection system using Python and Scikit-learn.
+# Phishing Email Detection
+
+Machine Learning project to detect phishing emails.
+
+Algorithm used:
+Logistic Regression
+
+Files:
+app.py
+dataset.csv
+model.pkl
+requirements.txt
